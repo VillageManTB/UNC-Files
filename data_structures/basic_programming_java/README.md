@@ -1,7 +1,3 @@
-# Getting Warmer
-
-Like Assignment 1, this assignment is intended to further warm-up your basic programming skills and can be done without any object-oriented programming using built-in data types and arrays with loops and conditional execution.
-
 ## A2Novice
 
 This program reads in a list of ingredients used by a restaurant and prints out information derived from the list.
