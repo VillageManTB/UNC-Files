@@ -1,6 +1,6 @@
 # Password Manager
 
-In this assignment you will be implementing a version of a HashMap in order to create your own password manager.
+Implement a version of a HashMap in order to create your own password manager.
 NeNew
 A password manager is an application designed to store and manage someone's passwords. The #1 rule of password security
 is to not reuse passwords, we all know that whenever safari or chrome recommends those strong password filled with 
