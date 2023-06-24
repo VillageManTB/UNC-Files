@@ -1,8 +1,5 @@
 # AVL Tree
 
-Your task in A7 is to implement an AVL tree as an implementation of
-the interface SelfBalancingTree. 
-
 A skeleton AVLTree class has been provided. You must at least provide a 
 constructor that takes no arguments and creates an empty AVLTree. You 
 can either use a null element value to indicate that a tree is empty or
