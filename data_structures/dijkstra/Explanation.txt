@@ -1,0 +1,19 @@
+Roadtrip Explanation:
+
+For my scores, I rated the destinations on a 0-5 scale. For scenery,
+0 was terrible scenery, while 5 was beautiful. For traffic, 0 was
+none at all, while 5 was heavy traffic. For attractions, 0 was no
+fun or cool attractions, while 5 was the most fun and coolest
+attractions. As for my CalculateWeight algorithm, I wanted the values
+mean something to me. To me, traffic and attractions are very important,
+so I just added those two together. Then, I added the product of
+scenery and distance because if I am driving a long distance, then
+the scenery is VERY important.
+
+When going between Chapel Hill and LA, I will hit Chicago, then San Francisco,
+and then LA. When going from Chapel Hill to Chicago the weight is 790.0,
+when going from Chicago to San Francisco the weight is 8.0, and when going from
+San Francisco to LA, the weight is 396.0. On my way to LA, I will visit some
+overpasses in the West Virginia mountains, some national forests, the Golden Gate
+Bridge, as well as go to a Chicago Cubs baseball game, a San Francisco 49ers
+football game, and a LA Lakers basketball game.
