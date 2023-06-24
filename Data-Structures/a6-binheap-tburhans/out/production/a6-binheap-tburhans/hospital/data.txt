@@ -1,3 +1,0 @@
-SimpleEmergencyRoom average time:
-MinBinHeapER average time:
-Percent decrease:
