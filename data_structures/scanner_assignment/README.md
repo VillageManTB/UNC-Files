@@ -1,33 +1,3 @@
-# A1
-
-Congratulations! If you're seeing this, then presumably you've managed to:
-* Install Java
-* Install IntelliJ IDEA
-* Install Git
-* Created a GitHub account
-* Accepted the A1 assignment link.
-
-
-If you haven't done one or more of those things, please do.
-
-This repository should be a "private" repository and access to it is limited to yourself, KMP, and the COMP 210 team. 
-
-Now it's time to create an IntelliJ project based on this repository. From the IntelliJ splash screen, simply select "Get From Version Control" and then provide the git clone URL for this repository. Or, if you are not on the IntelliJ splash screen, select menu item File -> New -> Project From Version Control... and again, provide the git clone URL for this repository. Demonstrated in this YouTube video:
-
-https://youtu.be/xx9GLxo6Y9M
-
-The first thing we'll do is make sure you're able to run a program in IntelliJ and provide input from the keyboard to that program. Follow this video and follow along:
-
-https://youtu.be/S2caecQkWSI
-
-Did it all work as expected? Is your Java version at least 10.0? If not, get yourself to office hours and/or see if there's any helpful advice on Piazza for a similar issue or post a question on Piazza describing what seems to be going wrong. If all is well, let's learn how to submit your assignments to Gradescope. Watch this video and follow along:
-
-https://youtu.be/jVx2rCffVf0
-
-Did you get your first point of the assignment? If yes, then congratulations. If not, better go work it out eventually, but you could also keep going with the assignment.
-
-Now things are set up, here is the rest of the assignment.
-
 ### Scanner
 
 This assignment requires you to make use of a Scanner object. You can read the documentation for Scanner here: https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/util/Scanner.html
